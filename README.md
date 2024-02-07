@@ -14,7 +14,7 @@ Neste desafio, vocês não podem mexer no arquivo HTML, apenas no arquivo CSS, e
     4. Aguarde alguns minutos enquanto o site é construído;
     5. Se atualizar a mesma página, o link aparecerá no topo ou se quiser, vá na aba superior **Actions**, selecione o primeiro link de workflow e copie-o.
 3. Utilizem o link criado para preencher a atividade avaliativa do formulário aqui https://forms.gle/JpngJzxf4fbHeTHe8
-4. Não é permitido mudar **NADA** do arquivo ```index.html```;
+4. Não é permitido mudar **NADA** do arquivo ```index.html```. Vocês vão precisar ler o arquivo para entendê-lo e saber como usá-lo, só o que não pode é modificá-lo;
 5. Utilizem o arquivo ```style.css``` para implementar o CSS de vocês;
 6. Façam o layout como quiserem, mas é necessário respeitar ao menos alguns pontos:
     * O CSS deve ser válido. Para ajudar vocês a fazerem essa checagem, podem utilizar a ferramenta no link https://jigsaw.w3.org/css-validator/#validate_by_input
@@ -35,6 +35,6 @@ Se ainda assim não forem suficientes, vocês podem utilizar alguns recursos do 
 
 Não se preocupem se não entenderem como utilizar as pseudo-classes e pseudo-elementos. O professor Saint-Clair vai dar uma introdução e esse assunto será reforçado nas próximas aulas.
 
-Lembre-se que não é necessário que a atividade esteja pronta, somente que iniciem a atividade, e utilizem o canal de dúvidas.
+**Lembre-se que não é necessário que a atividade esteja pronta, somente que iniciem a atividade, e utilizem o canal de dúvidas.**
 
 Bons estudos, pessoal 📖👨‍💻👩‍💻!!!
