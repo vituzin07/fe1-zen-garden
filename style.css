@@ -6,27 +6,39 @@ html, body
     }
 html
     { 
-    color: red;
-    font-family: URW Chancery L, cursive;
+    height: 100%;
+    color: #244011;
+    font-family: Trattatello, fantasy;
     background-image: url(https://www.climatepolicyinitiative.org/wp-content/uploads/2021/09/Depositphotos_42469131_xl-2015-scaled.jpg);
+    background-attachment: fixed;
     height: 100px;
     min-height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 900px;
-    margin-bottom: 900px;
+    margin-top: 800px;
+    margin-bottom: 800px;
     }
 body
     {
-        background-image: url(https://www.infoescola.com/wp-content/uploads/2008/05/onca-pintada-591459416.jpg);
-        
-        background-size: 950px ;
+        background-color: 	#eef4d7;
         width: 100vw;
         max-width: 950px;
         border-radius: 20px;
         box-shadow: 0 0 10px rgb(0, 0, 0);
         padding: 25px;
         margin-top: 150px;
-        margin-bottom: 250px;
+        margin-bottom: 150px;
+    }
+a:hover{
+    color: red;
+}
+h1{
+    color: 	#2d5016;
+}
+h2{
+color: rgb(73, 134, 40);
+    }
+    h3{
+        color: rgb(140, 140, 22);
     }
