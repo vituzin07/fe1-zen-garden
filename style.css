@@ -34,11 +34,23 @@ a:hover{
     color: red;
 }
 h1{
+    font-size: 50px;
     color: 	#2d5016;
 }
 h2{
 color: rgb(73, 134, 40);
     }
-    h3{
+h3{
+     font-size: 30px;
         color: rgb(140, 140, 22);
     }
+
+
+body::before {
+    content: url(https://png.pngtree.com/png-vector/20240107/ourmid/pngtree-scarlet-macaw-colorful-bird-perching-png-image_11426521.png);
+    position: absolute;
+    top: 11px;
+    left: 290px;
+
+}
+    
